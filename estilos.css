@@ -29,8 +29,8 @@ header{
     width: 100%;
     height: 900px;
     background: #b92b27;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #1e87ff00, #b92c2707),url(../logo.jpg);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #1e87ff04, #b92c2704),url(../logo.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to right, #1e87ff00, #b92c2707),url(../logo.png);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1e87ff04, #b92c2704),url(../logo.png); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 background-size: cover;
 background-attachment: fixed;
 position: relative;
